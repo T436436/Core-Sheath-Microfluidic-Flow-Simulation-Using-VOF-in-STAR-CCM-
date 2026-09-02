@@ -120,7 +120,7 @@ The core width decreased sharply from approximately **250 µm** at a sheath-to-c
 In contrast, the core height remained close to **120 µm** across the tested ratios. Therefore, changing the sheath flow primarily controlled the **width** of the core, whereas the vertical dimension was comparatively insensitive and remained constrained by the channel geometry.
 
 <p align="center">
-  <img src="images/Figure_16_Core_Width_Height_vs_Sheath_Core_Ratio.png" alt="Core width and height as functions of sheath-to-core flow-rate ratio" width="760">
+  <img src="Figure_15_Core_Phase_Different_Flow_Ratios.png" alt="Core width and height as functions of sheath-to-core flow-rate ratio" width="760">
 </p>
 
 ## Key Findings
