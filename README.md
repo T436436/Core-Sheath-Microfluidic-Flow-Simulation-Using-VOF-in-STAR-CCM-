@@ -18,20 +18,9 @@ The channel geometry was designed in **SOLIDWORKS 2024**, simulated in **STAR-CC
 
 ## Methodology
 
-```mermaid
-flowchart TD
-    A["Review sheathing designs"] --> B["Create 7-chevron channel in SOLIDWORKS"]
-    B --> C["Import geometry into STAR-CCM+"]
-    C --> D["Generate polyhedral mesh and surface remesh"]
-    D --> E["Configure 3D laminar segregated VOF model"]
-    E --> F["Apply velocity inlets and pressure outlet"]
-    F --> G["Perform mesh-independence study"]
-    G --> H["Select Mesh 3: 976,311 cells"]
-    H --> I["Vary sheath-to-core flow-rate ratio"]
-    I --> J["Export phase-volume-fraction sections"]
-    J --> K["Measure core width and height in ImageJ"]
-    K --> L["Compare core morphology and dimensions"]
-```
+<p align="center">
+<img src="images/methodology_overview.jpg" align="center" width="75%"/>
+</p>
 
 ### 1. Channel Geometry
 
