@@ -37,7 +37,7 @@ The device contains one central core inlet, two symmetric sheath inlets, and one
 | Sheath-inlet angle | 45 degrees |
 
 <p align="center">
-  <img src="images/Figure_11_Core_Sheath_Geometry.png" alt="Core-sheath microfluidic channel geometry" width="850">
+  <img src="Picture1.png" alt="Core-sheath microfluidic channel geometry" width="850">
 </p>
 
 ### 2. Numerical Model
