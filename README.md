@@ -8,12 +8,8 @@ A multiphase CFD model was developed in STAR-CCM+ using the Volume of Fluid (VOF
 
 The resulting phase distributions were analyzed at several locations along the channel, and ImageJ was used to quantify changes in the dimensions of the core stream.
 
-                 Sheath inlet
-                     ↘
-                      \
-                       \
-Core inlet ────────────►─────► Outlet
-                       /
-                      /
-                     ↗
-                 Sheath inlet
+
+# Methodology
+<p align="center">
+<img src="images/methodology_overview.jpg" align="center" width="75%"/>
+</p>
