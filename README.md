@@ -152,23 +152,7 @@ In contrast, the core height remained close to **120 µm** across the tested rat
 - **Postprocessing:** STAR-CCM+ scalar scenes and ImageJ measurements
 - **Application:** Hydrodynamic focusing and core-sheath microfluidics
 
-## Suggested Repository Structure
 
-```text
-core-sheath-microfluidic-cfd/
-|-- README.md
-|-- images/
-|   |-- Figure_11_Core_Sheath_Geometry.png
-|   |-- Figure_12_Mesh_Structure.png
-|   |-- Figure_13_Mesh_Independence_Volume_Fraction.png
-|   |-- Figure_14_Core_Phase_Stages_1_to_7.png
-|   |-- Figure_15_Core_Phase_Different_Flow_Ratios.png
-|   `-- Figure_16_Core_Width_Height_vs_Sheath_Core_Ratio.png
-|-- geometry/
-|-- mesh/
-|-- results/
-`-- docs/
-```
 
 ## Reference
 
