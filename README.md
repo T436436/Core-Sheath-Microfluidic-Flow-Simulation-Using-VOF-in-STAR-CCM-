@@ -110,7 +110,7 @@ As the flow passed through Stages 1-7, the core cross section changed from an in
 The Stage 7 core profiles were compared at sheath-to-core ratios of **2.5, 7, 14.5, and 29.5**. Increasing the sheath flow strengthened hydrodynamic focusing and progressively confined the core stream in the lateral direction.
 
 <p align="center">
-  <img src="images/Figure_15_Core_Phase_Different_Flow_Ratios.png" alt="Stage 7 core-phase contours at different sheath-to-core ratios" width="800">
+  <img src="r1_1.png" alt="Stage 7 core-phase contours at different sheath-to-core ratios" width="800">
 </p>
 
 ### Quantitative Core Dimensions
