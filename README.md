@@ -102,7 +102,7 @@ At the entrance, the symmetric sheath streams compressed the central core latera
 As the flow passed through Stages 1-7, the core cross section changed from an initially compact profile to a more elongated and flattened shape and ultimately developed a dumbbell-like morphology. This result demonstrates that the chevron geometry controls not only the core size but also its cross-sectional shape.
 
 <p align="center">
-  <img src="          " alt="Evolution of the core phase through chevron stages 1 to 7" width="700">
+  <img src="Sheath_XY Plot 1.png" alt="Evolution of the core phase through chevron stages 1 to 7" width="700">
 </p>
 
 ### Effect of Sheath-to-Core Flow-Rate Ratio
