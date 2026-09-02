@@ -86,7 +86,7 @@ For the grid study, the core and sheath inlet velocities were each set to **8.9 
 Mesh 3 and Mesh 4 predicted the same pure-core distance of **450 µm**. Mesh 3 was therefore selected for the parametric simulations because additional refinement increased computational cost without changing this monitored result.
 
 <p align="center">
-  <img src="images/Figure_13_Mesh_Independence_Volume_Fraction.png" alt="Core volume-fraction profiles used for the mesh-independence study" width="760">
+  <img src="Sheath_mesh.png" alt="Core volume-fraction profiles used for the mesh-independence study" width="760">
 </p>
 
 ### 5. Postprocessing
