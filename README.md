@@ -19,7 +19,7 @@ The channel geometry was designed in **SOLIDWORKS 2024**, simulated in **STAR-CC
 ## Methodology
 
 <p align="center">
-<img src="images/methodology_overview.jpg" align="center" width="75%"/>
+<img src="sheathing_methodology.png" align="center" width="75%"/>
 </p>
 
 ### 1. Channel Geometry
